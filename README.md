@@ -36,7 +36,7 @@ The Build process will occur automatically.
 Run the following command to execute the code remembering to use the
 app name you assigned in the build step.
 
-docker run l3t11-app
+docker run [app-name]
 
 ## 3 - Credits: 
 
