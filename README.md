@@ -22,7 +22,7 @@ In an appropriate location/folder create a clone of this repository by
 running the following command in VSC or command line (remember to open 
 the folder in VSC, or open terminal within the folder):
 
-"git clone https://github.com/chatsim79/L3T11.git"
+"git clone https://github.com/chatsim79/L3T11CT.git"
 
 once the repository is cloned, cd into the App Files folder and run the
 following command, providing an approriate app name:
